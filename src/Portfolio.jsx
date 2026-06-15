@@ -80,7 +80,7 @@ const SKILLS = [
 ];
 
 const EXPERIENCE = [
-  { period:"Jun 2025 – May 2026", company:"First South Financial Bank", role:"Data Analyst",
+  { period:"Nov 2025 – May 2026", company:"First South Financial Bank", role:"Data Analyst Intern",
     bullets:[
       "Designed and maintained Power BI dashboards tracking member account growth, loan portfolio performance, deposit trends, and branch-level KPIs for senior leadership",
       "Wrote and optimized complex SQL queries against PostgreSQL and Redshift to extract, clean, and model member transaction data for monthly regulatory and executive reporting",
@@ -88,17 +88,11 @@ const EXPERIENCE = [
       "Conducted cohort and retention analysis on member lifecycle data, identifying loan origination funnel drop-offs and contributing to a 10% improvement in member retention",
       "Partnered with compliance and risk teams to validate data quality and maintain audit-ready reporting in a federally regulated banking environment",
     ]},
-  { period:"Jun 2023 – Jul 2024", company:"Accenture Solutions Pvt. Ltd. — Philippines Banking Client", role:"Data Integration Analyst",
+  { period:"Jan 2022 – Jul 2024", company:"Accenture Solutions Pvt. Ltd. — Philippines Banking Client", role:"Data Integration Analyst",
     bullets:[
       "Built real-time financial KPI dashboards for an enterprise banking system serving millions of customers; integrated 10+ RESTful APIs powering high-volume transaction data pipelines",
       "Optimized SQL data-layer queries improving response times by 25%; validated data integrity across integrations in Agile sprints with bi-weekly stakeholder reporting",
       "Translated complex financial data findings into plain-language summaries for non-technical business stakeholders across bi-weekly cross-functional reporting cycles",
-    ]},
-  { period:"Jun 2022 – May 2023", company:"Visa Inc. — Payment Analytics Team", role:"Data Analyst Intern",
-    bullets:[
-      "Assisted in building and updating Power BI dashboards to track transaction volume and basic reporting metrics for the analytics team",
-      "Wrote basic SQL queries to extract, filter, and clean transaction data, supporting senior analysts with weekly reporting tasks",
-      "Helped maintain a shared Excel tracker for weekly metrics, ensuring data was updated accurately and on time",
     ]},
 ];
 
