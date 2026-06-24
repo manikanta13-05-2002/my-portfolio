@@ -1,16 +1,58 @@
-# React + Vite
+# Mani Kanta Jonnalagadda — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with **React 19 + Vite**, showcasing my background as a Data Analyst, my skills, projects, and contact details.
 
-Currently, two official plugins are available:
+🔗 **Live site:** _deploy via GitHub Pages and add the link here_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Sections
 
-## React Compiler
+- **Hero / Intro** — quick introduction and headline
+- **About** — professional background and summary
+- **Skills** — tools and technologies I work with
+- **Experience** — work history and roles
+- **Projects** — featured data & analytics projects
+- **Achievements** — certifications and highlights
+- **Education** — academic background
+- **Contact** — ways to get in touch
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+`React 19` · `Vite` · `JavaScript (JSX)` · `lucide-react` (icons) · `CSS` · `gh-pages` (deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+```bash
+# install dependencies
+npm install
+
+# start the dev server
+npm run dev
+
+# build for production
+npm run build
+
+# deploy to GitHub Pages
+npm run deploy
+```
+
+## 📁 Project Structure
+
+```
+my-portfolio/
+├── public/            # static assets
+├── src/
+│   ├── App.jsx        # app shell
+│   ├── Portfolio.jsx  # main portfolio sections
+│   ├── App.css / index.css
+│   └── main.jsx       # entry point
+├── index.html
+└── vite.config.js
+```
+
+## 📫 Contact
+
+- 📧 **jonnalagaddamani13@gmail.com**
+- 📍 Memphis, TN
+
+---
+*Built and maintained by Mani Kanta Jonnalagadda.*
